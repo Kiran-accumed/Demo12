@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>patientfailure_nationalid</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>e2e0a5c8-5de0-4e92-96a4-97ee157084fa</testCaseGuid>
-</TestCaseEntity>
